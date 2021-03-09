@@ -6,6 +6,7 @@
 	--primary-font-color: #444;
 	--info-font-color: #a0a0a0;
 	--color-darker: #272c33;
+	--color-darkest: #2f343d;
 }
 
 /* Reset global font color so that it's changable more easily */
@@ -181,7 +182,7 @@ body.dark-mode .rcx-css-1d5cod7 {
 }
 
 body.dark-mode blockquote.rcx-attachment__details .rcx-box--full {
-	color: var(--secondary-font-color);
+	color: var(--primary-font-color);
 }
 
 body.dark-mode .rcx-css-11c35pn:hover .rcx-attachment__details,
